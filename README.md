@@ -2,7 +2,7 @@
 
 With the introduction of artificial intelligence into healthcare, accuracy and reliability are of utmost importance. When AI provides important information, as well as partially supporting doctors in making the final decision. And the purpose of combining the two models of classification and segmentation can help increase accuracy, reliability and at the same time reduce errors as well as reduce the model's calculation time.
 
-Instead of just using a segmentation model, i combined a Resnet-50 classification model to make quick classification determinations as to whether an image might contain a brain tumor or not. And only those images are fed into the Unet segmentation model to do detailed segmentation work. This helps reduce the number of segmented images and the segmentation model will only focus on images containing brain tumors.
+Instead of just using a Unet segmentation model, i combined a Resnet-50 classification model to make quick classification determinations as to whether an image might contain a brain tumor or not. And only those images are fed into the Unet segmentation model to do detailed segmentation work. This helps reduce the number of segmented images and the segmentation model will only focus on images containing brain tumors.
 
 
 <br> 
