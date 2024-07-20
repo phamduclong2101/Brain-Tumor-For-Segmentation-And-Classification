@@ -1,10 +1,10 @@
-# Brain-Tumor-For-Segmentation-And-Classification
 # Brain MRI Classification and Segmentation
 
 This repository contains code for Brain MRI Classification and Segmentation using deep learning models.
 
 ## Directory Structure
 
+.
 ├── data_generator.py
 ├── brain_mri_classifier.py
 ├── brain_mri_segmentation.py
