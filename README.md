@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Prepare your data: Download the dataset from Kaggle and place it in the correct directory. Update the paths in the main.py file accordingly.
+1. Prepare your data: Download the dataset from Kaggle and place it in the correct directory. Update the paths in the `main.py` file accordingly.
 2. Run the main script:
    
 ```bash
@@ -64,8 +64,8 @@ python main.py
 ```
 
 ## Customizing
-Modify the parameters in data_generator.py to customize the data generation process.
-Adjust the model architecture and training parameters in brain_mri_classifier.py and brain_mri_segmentation.py as needed.
+Modify the parameters in `data_generator.py` to customize the data generation process.
+Adjust the model architecture and training parameters in `brain_mri_classifier.py` and `brain_mri_segmentation.py` as needed.
 
 ------------------------------------------
 ## Training results
