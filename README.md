@@ -49,7 +49,7 @@ After downloading, make sure to place the dataset in the appropriate directory a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/brain-mri-classification-segmentation.git
+https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification.git
 cd brain-mri-classification-segmentation
 ```
 
