@@ -4,7 +4,10 @@ With the introduction of artificial intelligence into healthcare, accuracy and r
 
 Instead of just using a segmentation model, i combined a classification model to make quick classification determinations as to whether an image might contain a brain tumor or not. And only those images are fed into the segmentation model to do detailed segmentation work. This helps reduce the number of segmented images and the segmentation model will only focus on images containing brain tumors.
 
-<br> <img width="540" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/f0db18504d060de47ba5b0f4d6f275c0f5505f4b/Results/brain_mri_with_masks1.png">
+<br> 
+<p align="center">
+  <img width="540" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/f0db18504d060de47ba5b0f4d6f275c0f5505f4b/Results/brain_mri_with_masks1.png">
+</p>
 
 
 This repository contains code for Brain MRI Classification and Segmentation using deep learning models.
