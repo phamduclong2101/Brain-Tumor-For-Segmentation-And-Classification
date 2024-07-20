@@ -4,15 +4,19 @@ This repository contains code for Brain MRI Classification and Segmentation usin
 
 ## Directory Structure
 
-.
+
 ├── data_generator.py 
 
 ├── brain_mri_classifier.py
 
 ├── brain_mri_segmentation.py
+
 ├── main.py
+
 ├── README.md
+
 ├── requirements.txt
+
 └── data_mask.csv
 
 ## Files Description
