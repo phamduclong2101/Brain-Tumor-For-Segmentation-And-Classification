@@ -83,13 +83,25 @@ Adjust the model architecture and training parameters in `brain_mri_classifier.p
 ## Training results
 
 ### Training graphs
+
 ### Classification graphs metrics
-<br> <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/a.jpg">
+<br> 
+<p align="center">
+  <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/a.jpg">
+</p>
+
 ### Segmentation graphs metrics
-<br> <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/b.jpg">
+<br> 
+<p align="center">
+  <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/b.jpg">
+</p>
 
 ### Sample outputs
-<br> <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/brain_mri_samples1.png">
+<br> 
+<p align="center">
+  <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/brain_mri_samples1.png">
+</p>
+
 
 ## Contributing
 If you would like to contribute, please open a pull request or issue.
