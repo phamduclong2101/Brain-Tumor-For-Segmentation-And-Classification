@@ -71,9 +71,9 @@ Adjust the model architecture and training parameters in brain_mri_classifier.py
 ## Training results
 
 ### Training graphs
-### classification graphs
+### Classification graphs metrics
 <br> <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/a.jpg">
-### classification graphs
+### Segmentation graphs metrics
 <br> <img width="500" alt="RGB" src="https://github.com/phamduclong2101/Brain-Tumor-For-Segmentation-And-Classification/blob/992f63fe488ddb4e2b15f310eddf82efbba27d14/Results/b.jpg">
 
 ### Sample outputs
@@ -81,13 +81,6 @@ Adjust the model architecture and training parameters in brain_mri_classifier.py
 
 ## Contributing
 If you would like to contribute, please open a pull request or issue.
-
-
-### **Technologies used**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 ### **Tools used**
